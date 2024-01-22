@@ -1,2 +1,2 @@
-# Blog Website 
-## Mini-Project
+# Blog Website (Mini-Project)
+
